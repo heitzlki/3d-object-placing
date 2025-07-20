@@ -42,7 +42,7 @@ The core algorithm uses Monte Carlo methods to:
 
 ### Multiple Object Placement Scenarios
 
-![Multiple object traces showing placement optimization](https://raw.githubusercontent.com/heitzlki/3d-object-placing/refs/heads/feature/calc_shadow/monte_carlo/notebooks/newplot.png?token=GHSAT0AAAAAAC4N7XNUMIU46GB2F4RJUMDK2D4XNMQ)
+![Multiple object traces showing placement optimization](https://raw.githubusercontent.com/heitzlki/3d-object-placing/refs/heads/main/3d_object_placing/notebooks/newplot.png)
 
 ### Comparison of Placement Strategies
 
